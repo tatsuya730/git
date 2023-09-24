@@ -1,2 +1,3 @@
 ignore.md
-ignore_dir/
+# ignore_dir/
+*.txt
